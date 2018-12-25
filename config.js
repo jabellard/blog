@@ -1,17 +1,17 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
-  description: 'Full-stack Web Developer',
+  title: 'Blog', // Required
+  author: 'Joe Nathan Abellard', // Required
+  description: 'Software Engineer',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    website: 'http://jabellard.com',
+    github: 'https://github.com/joenatech7',
+    twitter: 'https://twitter.com/',
+    linkedin: 'https://ca.linkedin.com/',
   },
-  pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+  pathPrefix: '/blog',
+  siteUrl: 'https://joenatech7.github.io/devblog/',
 };
